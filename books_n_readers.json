@@ -1,0 +1,13 @@
+{
+    "records_list": [
+        {
+            "uid": 1,
+            "title_name": "sdgasd",
+            "author_name": "asfdgdsgdsf",
+            "release_year": 3243,
+            "borrowed": false,
+            "holder_id": 0
+        }
+    ],
+    "users_list": null
+}
